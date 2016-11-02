@@ -1,0 +1,14 @@
+{
+	"name": "craftcommerce-braintree/braintree",
+	"description": "Omnipay Braintree Gateway for Craft Commerce",
+	"type": "craft-plugin",
+	"authors": [
+		{
+			"name": "madebyjam",
+			"homepage": "https://madebyjam.com"
+		}
+	],
+	"require": {
+		"omnipay/braintree": "~2.0@dev"
+	}
+}
